@@ -1,0 +1,3 @@
+[console_scripts]
+follow_leader = my_launch_pkg.follow_the_leader:main
+
