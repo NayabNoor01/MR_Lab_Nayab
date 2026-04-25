@@ -1,0 +1,8 @@
+[console_scripts]
+lidar_nav = my_turtle_package.lidar_navigator:main
+task_1 = my_turtle_package.task_1:main
+task_2 = my_turtle_package.task_2:main
+task_3 = my_turtle_package.task_3:main
+task_4 = my_turtle_package.task_4:main
+task_5 = my_turtle_package.task_5:main
+
