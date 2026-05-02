@@ -1,5 +1,3 @@
 *.db3
 rosbag2_*
-build/
-install/
-log/
+
