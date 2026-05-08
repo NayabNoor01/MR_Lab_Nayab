@@ -1,6 +1,3 @@
-cd ~/MR_Lab_Nayab/week7 && \
-
-cat << 'EOF' > README.md
 # Lab 7: Autonomous Navigation with Nav2
 
 ## Overview
