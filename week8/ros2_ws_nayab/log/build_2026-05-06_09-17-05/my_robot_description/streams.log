@@ -1,0 +1,42 @@
+[0.012s] Invoking command in '/home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description': CMAKE_PREFIX_PATH=/home/nayab/ros2_ws_nayab/install/my_turtle_package:/home/nayab/ros2_ws_nayab/install/my_launch_pkg:/opt/ros/humble /usr/bin/cmake /home/nayab/Lab_8/ros2_ws_nayab/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description
+[0.224s] -- The C compiler identification is GNU 11.4.0
+[0.348s] -- The CXX compiler identification is GNU 11.4.0
+[0.360s] -- Detecting C compiler ABI info
+[0.451s] -- Detecting C compiler ABI info - done
+[0.460s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.464s] -- Detecting C compile features
+[0.465s] -- Detecting C compile features - done
+[0.470s] -- Detecting CXX compiler ABI info
+[0.571s] -- Detecting CXX compiler ABI info - done
+[0.582s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.582s] -- Detecting CXX compile features
+[0.583s] -- Detecting CXX compile features - done
+[0.594s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.801s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.949s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.107s] -- Added test 'lint_cmake' to check CMake code style
+[1.110s] -- Added test 'xmllint' to check XML markup files
+[1.112s] -- Configuring done
+[1.115s] -- Generating done
+[1.117s] -- Build files have been written to: /home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description
+[1.123s] Invoked command in '/home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/home/nayab/ros2_ws_nayab/install/my_turtle_package:/home/nayab/ros2_ws_nayab/install/my_launch_pkg:/opt/ros/humble /usr/bin/cmake /home/nayab/Lab_8/ros2_ws_nayab/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description
+[1.126s] Invoking command in '/home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description': CMAKE_PREFIX_PATH=/home/nayab/ros2_ws_nayab/install/my_turtle_package:/home/nayab/ros2_ws_nayab/install/my_launch_pkg:/opt/ros/humble /usr/bin/cmake --build /home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description -- -j4 -l4
+[1.171s] Invoked command in '/home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/home/nayab/ros2_ws_nayab/install/my_turtle_package:/home/nayab/ros2_ws_nayab/install/my_launch_pkg:/opt/ros/humble /usr/bin/cmake --build /home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description -- -j4 -l4
+[1.184s] Invoking command in '/home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description': CMAKE_PREFIX_PATH=/home/nayab/ros2_ws_nayab/install/my_turtle_package:/home/nayab/ros2_ws_nayab/install/my_launch_pkg:/opt/ros/humble /usr/bin/cmake --install /home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description
+[1.193s] -- Install configuration: ""
+[1.193s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[1.193s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[1.194s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[1.194s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[1.194s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/environment/path.sh
+[1.194s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[1.195s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/local_setup.bash
+[1.195s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/local_setup.sh
+[1.195s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[1.195s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[1.196s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/package.dsv
+[1.196s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[1.196s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[1.196s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[1.197s] -- Installing: /home/nayab/Lab_8/ros2_ws_nayab/install/my_robot_description/share/my_robot_description/package.xml
+[1.200s] Invoked command in '/home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/home/nayab/ros2_ws_nayab/install/my_turtle_package:/home/nayab/ros2_ws_nayab/install/my_launch_pkg:/opt/ros/humble /usr/bin/cmake --install /home/nayab/Lab_8/ros2_ws_nayab/build/my_robot_description
