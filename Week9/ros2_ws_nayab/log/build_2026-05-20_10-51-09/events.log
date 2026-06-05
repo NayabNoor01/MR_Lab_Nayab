@@ -1,0 +1,112 @@
+[0.000000] (-) TimerEvent: {}
+[0.004337] (vision_task1) JobQueued: {'identifier': 'vision_task1', 'dependencies': OrderedDict()}
+[0.004519] (vision_task1) JobStarted: {'identifier': 'vision_task1'}
+[0.099970] (-) TimerEvent: {}
+[0.203223] (-) TimerEvent: {}
+[0.314285] (-) TimerEvent: {}
+[0.419750] (-) TimerEvent: {}
+[0.522568] (-) TimerEvent: {}
+[0.624163] (-) TimerEvent: {}
+[0.734122] (-) TimerEvent: {}
+[0.834922] (-) TimerEvent: {}
+[0.936219] (-) TimerEvent: {}
+[1.040282] (-) TimerEvent: {}
+[1.146404] (-) TimerEvent: {}
+[1.247454] (-) TimerEvent: {}
+[1.350097] (-) TimerEvent: {}
+[1.453519] (-) TimerEvent: {}
+[1.558641] (-) TimerEvent: {}
+[1.660563] (-) TimerEvent: {}
+[1.765097] (-) TimerEvent: {}
+[1.868744] (-) TimerEvent: {}
+[1.975922] (-) TimerEvent: {}
+[2.082713] (-) TimerEvent: {}
+[2.183300] (-) TimerEvent: {}
+[2.285651] (-) TimerEvent: {}
+[2.388934] (-) TimerEvent: {}
+[2.495488] (-) TimerEvent: {}
+[2.604454] (-) TimerEvent: {}
+[2.709806] (-) TimerEvent: {}
+[2.812655] (-) TimerEvent: {}
+[2.918008] (-) TimerEvent: {}
+[3.018751] (-) TimerEvent: {}
+[3.120153] (-) TimerEvent: {}
+[3.221676] (-) TimerEvent: {}
+[3.323780] (-) TimerEvent: {}
+[3.424480] (-) TimerEvent: {}
+[3.525961] (-) TimerEvent: {}
+[3.628738] (-) TimerEvent: {}
+[3.730530] (-) TimerEvent: {}
+[3.837534] (-) TimerEvent: {}
+[3.940961] (-) TimerEvent: {}
+[4.045436] (-) TimerEvent: {}
+[4.149280] (-) TimerEvent: {}
+[4.255954] (-) TimerEvent: {}
+[4.359735] (-) TimerEvent: {}
+[4.462458] (-) TimerEvent: {}
+[4.567917] (-) TimerEvent: {}
+[4.668768] (-) TimerEvent: {}
+[4.769914] (-) TimerEvent: {}
+[4.872754] (-) TimerEvent: {}
+[4.974320] (-) TimerEvent: {}
+[5.078937] (-) TimerEvent: {}
+[5.183327] (-) TimerEvent: {}
+[5.284929] (-) TimerEvent: {}
+[5.386461] (-) TimerEvent: {}
+[5.491235] (-) TimerEvent: {}
+[5.592933] (-) TimerEvent: {}
+[5.697900] (-) TimerEvent: {}
+[5.803722] (-) TimerEvent: {}
+[5.905723] (-) TimerEvent: {}
+[6.015067] (-) TimerEvent: {}
+[6.115711] (-) TimerEvent: {}
+[6.186878] (vision_task1) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/vision_task1', 'build', '--build-base', '/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build', 'install', '--record', '/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/nayab/Lab_9/ros2_ws_nayab/src/vision_task1', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'nayab', 'LC_TIME': 'ur_PK', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/nayab', 'OLDPWD': '/home/nayab/Lab_9/ros2_ws_nayab', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'ur_PK', 'SYSTEMD_EXEC_PID': '7567', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/nayab/Lab_9/ros2_ws_nayab/install:/home/nayab/ros2_ws_nayab/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'nayab', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'nayab', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/nayab/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/opt/xtensa-esp-elf/bin/', 'SESSION_MANAGER': 'local/nayab-Latitude-E7440:@/tmp/.ICE-unix/1467,unix/nayab-Latitude-E7440:/tmp/.ICE-unix/1467', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'ur_PK', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/898a933d_6b72_4da4_b7bc_f80592c025b7', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'ur_PK', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.53E3O3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.146', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1:/home/nayab/ros2_ws_nayab/install/my_turtle_package:/home/nayab/ros2_ws_nayab/install/my_launch_pkg:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'ur_PK', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ur_PK', 'LC_IDENTIFICATION': 'ur_PK', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1', 'TURTLEBOT3_MODEL': 'waffle', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages:/home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages:/home/nayab/ros2_ws_nayab/install/my_turtle_package/lib/python3.10/site-packages:/home/nayab/ros2_ws_nayab/install/my_launch_pkg/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'ur_PK', 'LC_PAPER': 'ur_PK', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[6.217706] (-) TimerEvent: {}
+[6.320053] (-) TimerEvent: {}
+[6.424820] (-) TimerEvent: {}
+[6.526534] (-) TimerEvent: {}
+[6.630743] (-) TimerEvent: {}
+[6.731470] (-) TimerEvent: {}
+[6.832320] (-) TimerEvent: {}
+[6.938008] (-) TimerEvent: {}
+[7.040121] (-) TimerEvent: {}
+[7.144845] (-) TimerEvent: {}
+[7.246843] (-) TimerEvent: {}
+[7.350878] (-) TimerEvent: {}
+[7.457323] (-) TimerEvent: {}
+[7.561388] (-) TimerEvent: {}
+[7.662451] (-) TimerEvent: {}
+[7.765069] (-) TimerEvent: {}
+[7.868107] (-) TimerEvent: {}
+[7.973688] (-) TimerEvent: {}
+[8.075881] (-) TimerEvent: {}
+[8.182160] (-) TimerEvent: {}
+[8.275459] (vision_task1) StdoutLine: {'line': b'running egg_info\n'}
+[8.278392] (vision_task1) StdoutLine: {'line': b'writing ../../build/vision_task1/vision_task1.egg-info/PKG-INFO\n'}
+[8.279178] (vision_task1) StdoutLine: {'line': b'writing dependency_links to ../../build/vision_task1/vision_task1.egg-info/dependency_links.txt\n'}
+[8.279961] (vision_task1) StdoutLine: {'line': b'writing entry points to ../../build/vision_task1/vision_task1.egg-info/entry_points.txt\n'}
+[8.280798] (vision_task1) StdoutLine: {'line': b'writing requirements to ../../build/vision_task1/vision_task1.egg-info/requires.txt\n'}
+[8.281349] (vision_task1) StdoutLine: {'line': b'writing top-level names to ../../build/vision_task1/vision_task1.egg-info/top_level.txt\n'}
+[8.282277] (-) TimerEvent: {}
+[8.302230] (vision_task1) StdoutLine: {'line': b"reading manifest file '../../build/vision_task1/vision_task1.egg-info/SOURCES.txt'\n"}
+[8.305914] (vision_task1) StdoutLine: {'line': b"writing manifest file '../../build/vision_task1/vision_task1.egg-info/SOURCES.txt'\n"}
+[8.307260] (vision_task1) StdoutLine: {'line': b'running build\n'}
+[8.308460] (vision_task1) StdoutLine: {'line': b'running build_py\n'}
+[8.312321] (vision_task1) StdoutLine: {'line': b'running install\n'}
+[8.314081] (vision_task1) StdoutLine: {'line': b'running install_lib\n'}
+[8.323666] (vision_task1) StdoutLine: {'line': b'running install_data\n'}
+[8.326904] (vision_task1) StdoutLine: {'line': b'running install_egg_info\n'}
+[8.337014] (vision_task1) StdoutLine: {'line': b"removing '/home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[8.339840] (vision_task1) StdoutLine: {'line': b'Copying ../../build/vision_task1/vision_task1.egg-info to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1-0.0.0-py3.10.egg-info\n'}
+[8.350538] (vision_task1) StdoutLine: {'line': b'running install_scripts\n'}
+[8.385927] (-) TimerEvent: {}
+[8.491678] (-) TimerEvent: {}
+[8.511761] (vision_task1) StdoutLine: {'line': b'Installing task_1 script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1\n'}
+[8.512730] (vision_task1) StdoutLine: {'line': b'Installing task_2 script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1\n'}
+[8.513858] (vision_task1) StdoutLine: {'line': b"writing list of installed files to '/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/install.log'\n"}
+[8.591731] (-) TimerEvent: {}
+[8.695184] (-) TimerEvent: {}
+[8.707413] (vision_task1) CommandEnded: {'returncode': 0}
+[8.802004] (-) TimerEvent: {}
+[8.812728] (vision_task1) JobEnded: {'identifier': 'vision_task1', 'rc': 0}
+[8.816876] (-) EventReactorShutdown: {}
