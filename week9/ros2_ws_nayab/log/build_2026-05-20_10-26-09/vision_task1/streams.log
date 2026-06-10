@@ -1,0 +1,37 @@
+[3.133s] Invoking command in '/home/nayab/Lab_9/ros2_ws_nayab/src/vision_task1': PYTHONPATH=/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_task1 build --build-base /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build install --record /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/install.log --single-version-externally-managed install_data
+[4.051s] running egg_info
+[4.053s] creating ../../build/vision_task1/vision_task1.egg-info
+[4.054s] writing ../../build/vision_task1/vision_task1.egg-info/PKG-INFO
+[4.055s] writing dependency_links to ../../build/vision_task1/vision_task1.egg-info/dependency_links.txt
+[4.056s] writing entry points to ../../build/vision_task1/vision_task1.egg-info/entry_points.txt
+[4.056s] writing requirements to ../../build/vision_task1/vision_task1.egg-info/requires.txt
+[4.056s] writing top-level names to ../../build/vision_task1/vision_task1.egg-info/top_level.txt
+[4.057s] writing manifest file '../../build/vision_task1/vision_task1.egg-info/SOURCES.txt'
+[4.060s] reading manifest file '../../build/vision_task1/vision_task1.egg-info/SOURCES.txt'
+[4.062s] writing manifest file '../../build/vision_task1/vision_task1.egg-info/SOURCES.txt'
+[4.062s] running build
+[4.062s] running build_py
+[4.062s] creating /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build
+[4.063s] creating /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build/lib
+[4.063s] creating /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build/lib/vision_task1
+[4.063s] copying vision_task1/__init__.py -> /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build/lib/vision_task1
+[4.063s] copying vision_task1/task_1.py -> /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build/lib/vision_task1
+[4.064s] running install
+[4.064s] running install_lib
+[4.066s] creating /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1
+[4.066s] copying /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build/lib/vision_task1/__init__.py -> /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1
+[4.066s] copying /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build/lib/vision_task1/task_1.py -> /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1
+[4.067s] byte-compiling /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1/__init__.py to __init__.cpython-310.pyc
+[4.068s] byte-compiling /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1/task_1.py to task_1.cpython-310.pyc
+[4.068s] running install_data
+[4.068s] creating /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/share/ament_index
+[4.069s] creating /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/share/ament_index/resource_index
+[4.069s] creating /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/share/ament_index/resource_index/packages
+[4.069s] copying resource/vision_task1 -> /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/share/ament_index/resource_index/packages
+[4.069s] copying package.xml -> /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/share/vision_task1
+[4.069s] running install_egg_info
+[4.073s] Copying ../../build/vision_task1/vision_task1.egg-info to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1-0.0.0-py3.10.egg-info
+[4.078s] running install_scripts
+[4.174s] Installing camera_view script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1
+[4.175s] writing list of installed files to '/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/install.log'
+[4.294s] Invoked command in '/home/nayab/Lab_9/ros2_ws_nayab/src/vision_task1' returned '0': PYTHONPATH=/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_task1 build --build-base /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build install --record /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/install.log --single-version-externally-managed install_data

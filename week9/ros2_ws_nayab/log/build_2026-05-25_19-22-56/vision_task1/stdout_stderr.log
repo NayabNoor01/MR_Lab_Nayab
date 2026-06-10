@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/vision_task1/vision_task1.egg-info/PKG-INFO
+writing dependency_links to ../../build/vision_task1/vision_task1.egg-info/dependency_links.txt
+writing entry points to ../../build/vision_task1/vision_task1.egg-info/entry_points.txt
+writing requirements to ../../build/vision_task1/vision_task1.egg-info/requires.txt
+writing top-level names to ../../build/vision_task1/vision_task1.egg-info/top_level.txt
+reading manifest file '../../build/vision_task1/vision_task1.egg-info/SOURCES.txt'
+writing manifest file '../../build/vision_task1/vision_task1.egg-info/SOURCES.txt'
+running build
+running build_py
+copying vision_task1/excercise_4.py -> /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build/lib/vision_task1
+running install
+running install_lib
+copying /home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/build/lib/vision_task1/excercise_4.py -> /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1
+byte-compiling /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1/excercise_4.py to excercise_4.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/vision_task1/vision_task1.egg-info to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/python3.10/site-packages/vision_task1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing excercise_4.py script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1
+Installing task_1 script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1
+Installing task_2 script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1
+Installing task_3 script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1
+Installing task_4 script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1
+Installing task_5 script to /home/nayab/Lab_9/ros2_ws_nayab/install/vision_task1/lib/vision_task1
+writing list of installed files to '/home/nayab/Lab_9/ros2_ws_nayab/build/vision_task1/install.log'
